@@ -1,1 +1,200 @@
-# portfolio
+
+<!DOCTYPE html>
+        <html lang="en" dir="ltr">
+        <head>
+            <meta charset="utf-8" />
+            <title>Personal Portfolio Template</title><link rel="icon"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="title" content="Personal Portfolio Template"/><meta name="description" content="Build beautiful personal portfolio websites with Dorik."/><meta property="og:title" content="Personal Portfolio Template"/><meta property="og:description" content="Build beautiful personal portfolio websites with Dorik."/><meta name="twitter:title" content="Personal Portfolio Template"/><meta name="twitter:description" content="Build beautiful personal portfolio websites with Dorik."/><meta name="twitter:card" content="summary_large_image"/><meta property="og:url" content="https://shailesh_jadav_portfolio.dorik.io/"/><meta property="og:type" content="website"/><link rel="canonical" href="https://shailesh_jadav_portfolio.dorik.io/"/><script type="text/javascript"></script><link as="font" rel="preload" href="https://fonts.cmsfly.com/css?family=Playfair+Display:900,900|Lato:700,700,400&display=swap"/><link rel="stylesheet" href="https://fonts.cmsfly.com/css?family=Playfair+Display:900,900|Lato:700,700,400&display=swap"/><link rel="stylesheet" href="https://cdn.dorik.com/642f9ccd2539a80035b6bb32/css/index.css?v=1680857650161"/>
+            
+            
+        </head>
+        <body>
+            
+            <section class="dorik-section dorik-section-7fl1msht "><div class="dorik-section-7fl1msht-frame-corner dorik-frame-corner"></div><div class="dorik-section-7fl1msht-frame-bottom dorik-frame-bottom"></div><div class=""><div class="container dorik-row-1ddxe4l2-wrapper    "><div class="dorik-row-1ddxe4l2  flex  "><div class="col-lg-1/2 "><div class="column-inner dorik-column-tjamp5h3  1/2"><div class="dorik-wrapper dorik-heading-q0y8v9zc-wrapper "><h3 class="dorik-heading dorik-heading-q0y8v9zc "><span>Hello I'm</span></h3></div><div class="dorik-wrapper dorik-heading-ax1ryn3j-wrapper "><h2 class="dorik-heading dorik-heading-ax1ryn3j "><span>Shailesh
+jadav
+</span></h2></div><div class="dorik-wrapper dorik-heading-w6uk0c9o-wrapper "><h6 class="dorik-heading dorik-heading-w6uk0c9o "><span>&nbsp;Information Technology Student || Java ||  Android Development
+
+</span></h6></div><ul class="dorik-socialIcon-8qxlwnr2  dorik-socialIcon-8qxlwnr2-wrapper "><li><a href="https://www.instagram.com/_shailesh_jadav/" class=""><svg width="128" height="128" viewBox="0 0 128 128" fill="#23242E" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M10 0H118C123.523 0 128 4.47715 128 10V118C128 123.523 123.523 128 118 128H10C4.47715 128 0 123.523 0 118V10C0 4.47715 4.47715 0 10 0ZM44.5759 63.9152C44.5759 53.2277 53.2277 44.4062 64.0848 44.4062C74.7723 44.4062 83.5938 53.2277 83.5938 63.9152C83.5938 74.7723 74.7723 83.4241 64.0848 83.4241C53.2277 83.4241 44.5759 74.7723 44.5759 63.9152ZM51.3616 63.9152C51.3616 71.0402 57.1295 76.6384 64.0848 76.6384C71.0402 76.6384 76.6384 71.0402 76.6384 63.9152C76.6384 56.9598 71.0402 51.3616 64.0848 51.3616C56.9598 51.3616 51.3616 56.9598 51.3616 63.9152ZM84.2723 39.1473C86.817 39.1473 88.8527 41.183 88.8527 43.7277C88.8527 46.2723 86.817 48.308 84.2723 48.308C81.7277 48.308 79.692 46.2723 79.692 43.7277C79.692 41.183 81.7277 39.1473 84.2723 39.1473ZM95.6384 32.3616C100.049 36.7723 101.406 42.2009 101.746 48.308C102.085 54.5848 102.085 73.4152 101.746 79.692C101.406 85.7991 100.049 91.058 95.6384 95.6384C91.2277 100.049 85.7991 101.406 79.692 101.746C73.4152 102.085 54.5848 102.085 48.308 101.746C42.2009 101.406 36.942 100.049 32.3616 95.6384C27.9509 91.058 26.5938 85.7991 26.2545 79.692C25.9152 73.4152 25.9152 54.5848 26.2545 48.308C26.5938 42.2009 27.9509 36.7723 32.3616 32.3616C36.942 27.9509 42.2009 26.5938 48.308 26.2545C54.5848 25.9152 73.4152 25.9152 79.692 26.2545C85.7991 26.5938 91.2277 27.9509 95.6384 32.3616ZM86.4777 93.6027C89.7009 92.2455 92.4152 89.7009 93.6027 86.308C95.3325 82.1275 95.225 72.9247 95.1536 66.8187C95.141 65.7391 95.1295 64.7563 95.1295 63.9152C95.1295 63.105 95.1408 62.1511 95.1533 61.0976C95.2247 55.0929 95.3345 45.852 93.6027 41.5223C92.2455 38.2991 89.7009 35.5848 86.4777 34.3973C82.148 32.6654 72.9071 32.7753 66.9024 32.8466C65.8489 32.8592 64.895 32.8705 64.0848 32.8705C63.2437 32.8705 62.2609 32.859 61.1813 32.8464C55.0753 32.775 45.8724 32.6675 41.692 34.3973C38.2991 35.7545 35.7545 38.2991 34.3973 41.5223C32.6654 45.852 32.7752 55.0929 32.8466 61.0976C32.8591 62.1511 32.8705 63.105 32.8705 63.9152C32.8705 64.7563 32.859 65.7391 32.8464 66.8187C32.775 72.9247 32.6674 82.1275 34.3973 86.308C35.7545 89.7009 38.2991 92.2455 41.692 93.6027C45.8724 95.3326 55.0753 95.225 61.1813 95.1536C62.2609 95.141 63.2437 95.1295 64.0848 95.1295C64.895 95.1295 65.8489 95.1408 66.9024 95.1534C72.907 95.2247 82.148 95.3346 86.4777 93.6027Z" />
+                </svg>
+                </a></li><li><a href="https://www.linkedin.com/in/shailesh-jadav-461132250/" class=""><svg width="128" height="128" viewBox="0 0 128 128" fill="#23242E" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M10 0H118C123.523 0 128 4.47715 128 10V118C128 123.523 123.523 128 118 128H10C4.47715 128 0 123.523 0 118V10C0 4.47715 4.47715 0 10 0ZM42.9643 51.1633V102H27.1875V51.1633H42.9643ZM44.1518 35.0112C44.1518 40.1119 40.0804 44.3624 34.9911 44.3624C30.0714 44.3624 26 40.1119 26 35.0112C26 30.0805 30.0714 26 34.9911 26C40.0804 26 44.1518 30.0805 44.1518 35.0112ZM102 102H101.83H86.2232V77.3468C86.2232 71.396 86.0536 63.915 77.9107 63.915C69.7679 63.915 68.5804 70.2058 68.5804 76.8367V102H52.8036V51.1633H67.9018V58.1342H68.0714C70.2768 54.2237 75.3661 49.9732 83 49.9732C98.9464 49.9732 102 60.5145 102 74.1163V102Z" />
+                </svg>
+                </a></li><li><a href="https://twitter.com/_Shailesh_Jadav" class=""><svg width="128" height="128" viewBox="0 0 128 128" fill="#23242E" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M10 0H118C123.523 0 128 4.47715 128 10V118C128 123.523 123.523 128 118 128H10C4.47715 128 0 123.523 0 118V10C0 4.47715 4.47715 0 10 0ZM95.4298 50.05C95.4298 71.3999 79.1386 96 49.363 96C40.1897 96 31.6682 93.3499 24.5 88.7502C25.8034 88.9 27.0565 88.9501 28.4099 88.9501C35.9789 88.9501 42.9467 86.4001 48.5109 82.0501C41.3929 81.9 35.4277 77.25 33.3724 70.85C34.375 71 35.3775 71.0999 36.4303 71.0999C37.884 71.0999 39.3377 70.8999 40.691 70.55C33.2722 69.0498 27.708 62.55 27.708 54.7V54.5001C29.8633 55.7001 32.3699 56.4501 35.0264 56.5499C30.6654 53.6499 27.8084 48.6999 27.8084 43.0999C27.8084 40.0999 28.6101 37.3499 30.0139 34.9499C37.984 44.7499 49.9645 51.1498 63.3983 51.8499C63.1478 50.6499 62.9974 49.4 62.9974 48.15C62.9974 39.25 70.2157 32 79.1884 32C83.8503 32 88.0608 33.95 91.0185 37.1C94.6776 36.4 98.1864 35.05 101.294 33.2C100.091 36.9501 97.5348 40.1001 94.1765 42.1C97.4348 41.7501 100.593 40.8499 103.5 39.6C101.295 42.7999 98.5376 45.6499 95.3796 47.9499C95.4298 48.6499 95.4298 49.3501 95.4298 50.05Z" />
+                </svg>
+                </a></li></ul></div></div><div class="col-lg-1/2 "><div class="column-inner dorik-column-x5f23a95  1/2"><div class="dorik-wrapper dorik-image-y5d393cc-wrapper "><img src="https://media.licdn.com/dms/image/D4E03AQEj5a6hO8CVEA/profile-displayphoto-shrink_400_400/0/1663154933171?e=1686182400&amp;v=beta&amp;t=Gxv-OtMVkyNipHv5hXLoLr9jQz9EHxFCiF0EYypR0nU" alt="" loading="lazy" class="dorik-image-y5d393cc "/></div></div></div></div></div></div></section><section class="dorik-section dorik-section-w03g554k "><div class=""><div class="container dorik-row-zfuvait2-wrapper    "><div class="dorik-row-zfuvait2  flex  "><div class="col-lg-3/8 "><div class="column-inner dorik-column-3io75ygu  3/8"><div class="dorik-wrapper dorik-image-soaldc73-wrapper "><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSRBQ7IZqfMNs5ooMP10_kuBCCSND9qd1YQQ&amp;usqp=CAU" alt="" loading="lazy" class="dorik-image-soaldc73 "/></div></div></div><div class="col-lg-4/7 "><div class="column-inner dorik-column-zgcg397x  4/7"><div class="dorik-line-oha9z2or-wrapper "><hr class="dorik-line-oha9z2or "/></div><div class="dorik-wrapper dorik-heading-zxi4r2gm-wrapper "><h2 class="dorik-heading dorik-heading-zxi4r2gm "><span>About Me</span></h2></div><div class="dorik-text dorik-text-743ohflf "><p>Hello! My name is Shailesh Jadav, and I'm a second-year student pursuing a degree in Information Technology. I have a strong interest in app development and am always eager to learn about new technologies and explore new ideas. I'm excited to share my experience and skills with you.</p>
+</div><div class="dorik-button-zjvbhfny-wrapper  "><button class="dorik-btn dorik-button-zjvbhfny  ">Download Resume</button></div></div></div></div></div></div></section><section class="dorik-section dorik-section-zpia340f "><div class=""><div class="container dorik-row-7y412i1s-wrapper    "><div class="dorik-row-7y412i1s  flex  "><div class="col-lg-1/3 "><div class="column-inner dorik-column-2o909bvg  1/3"><div class="dorik-wrapper dorik-heading-20ael81z-wrapper "><h2 class="dorik-heading dorik-heading-20ael81z "><span>Personal Info
+</span></h2></div><div class="dorik-iconText-0v0ujadb-wrapper "><div class="dorik-iconText-0v0ujadb "><span><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="envelope" class="svg-inline--fa fa-envelope icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="font-size:25px" data-testid="icon-test"><path fill="currentColor" d="M0 128C0 92.65 28.65 64 64 64H448C483.3 64 512 92.65 512 128V384C512 419.3 483.3 448 448 448H64C28.65 448 0 419.3 0 384V128zM48 128V150.1L220.5 291.7C241.1 308.7 270.9 308.7 291.5 291.7L464 150.1V127.1C464 119.2 456.8 111.1 448 111.1H64C55.16 111.1 48 119.2 48 127.1L48 128zM48 212.2V384C48 392.8 55.16 400 64 400H448C456.8 400 464 392.8 464 384V212.2L322 328.8C283.6 360.3 228.4 360.3 189.1 328.8L48 212.2z"></path></svg></span><span class="icon_text" data-testid="icon-text"><p>Email : jshailesh798@gmail.com</p>
+</span></div></div><div class="dorik-iconText-mrd1oap5-wrapper "><div class="dorik-iconText-mrd1oap5 "><span><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="language" class="svg-inline--fa fa-language icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" style="font-size:25px" data-testid="icon-test"><path fill="currentColor" d="M0 128C0 92.7 28.7 64 64 64H256h48 16H576c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H320 304 256 64c-35.3 0-64-28.7-64-64V128zm320 0V384H576V128H320zM178.3 175.9c-3.2-7.2-10.4-11.9-18.3-11.9s-15.1 4.7-18.3 11.9l-64 144c-4.5 10.1 .1 21.9 10.2 26.4s21.9-.1 26.4-10.2l8.9-20.1h73.6l8.9 20.1c4.5 10.1 16.3 14.6 26.4 10.2s14.6-16.3 10.2-26.4l-64-144zM160 233.2L179 276H141l19-42.8zM448 164c11 0 20 9 20 20v4h44 16c11 0 20 9 20 20s-9 20-20 20h-2l-1.6 4.5c-8.9 24.4-22.4 46.6-39.6 65.4c.9 .6 1.8 1.1 2.7 1.6l18.9 11.3c9.5 5.7 12.5 18 6.9 27.4s-18 12.5-27.4 6.9l-18.9-11.3c-4.5-2.7-8.8-5.5-13.1-8.5c-10.6 7.5-21.9 14-34 19.4l-3.6 1.6c-10.1 4.5-21.9-.1-26.4-10.2s.1-21.9 10.2-26.4l3.6-1.6c6.4-2.9 12.6-6.1 18.5-9.8l-12.2-12.2c-7.8-7.8-7.8-20.5 0-28.3s20.5-7.8 28.3 0l14.6 14.6 .5 .5c12.4-13.1 22.5-28.3 29.8-45H448 376c-11 0-20-9-20-20s9-20 20-20h52v-4c0-11 9-20 20-20z"></path></svg></span><span class="icon_text" data-testid="icon-text"><p>Languages known : English, Hindi, Gujarati</p>
+<p></p>
+</span></div></div><div class="dorik-iconText-mrv9fq95-wrapper "><div class="dorik-iconText-mrv9fq95 "><span><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="location-dot" class="svg-inline--fa fa-location-dot icon " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" style="font-size:25px" data-testid="icon-test"><path fill="currentColor" d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 256c-35.3 0-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64s-28.7 64-64 64z"></path></svg></span><span class="icon_text" data-testid="icon-text"><p>Address : Halvad, Dist-Morbi, India</p>
+</span></div></div></div></div><div class="col-lg-1/3 "><div class="column-inner dorik-column-nz1d88df  1/3"><div class="dorik-wrapper dorik-heading-2macrb40-wrapper "><h1 class="dorik-heading dorik-heading-2macrb40 "><span>Tools
+</span></h1></div><div class="dorik-wrapper dorik-heading-8wp2spnv-wrapper "><h3 class="dorik-heading dorik-heading-8wp2spnv "><span>Visual Studio
+</span></h3></div><div class="dorik-wrapper dorik-heading-djxogm8r-wrapper "><h3 class="dorik-heading dorik-heading-djxogm8r "><span>Android Studio
+</span></h3></div><div class="dorik-wrapper dorik-heading-kke9s7re-wrapper "><h3 class="dorik-heading dorik-heading-kke9s7re "><span>intellij idea
+</span></h3></div><div class="dorik-wrapper dorik-heading-5r2v1q5x-wrapper "><h3 class="dorik-heading dorik-heading-5r2v1q5x "><span>Pycharm
+</span></h3></div></div></div><div class="col-lg-1/3 "><div class="column-inner dorik-column-ymr2h31m  1/3"><div class="dorik-wrapper dorik-heading-nbu7ffyx-wrapper "><h1 class="dorik-heading dorik-heading-nbu7ffyx "><span>Education
+</span></h1></div><div class="dorik-wrapper dorik-heading-d0y7i08r-wrapper "><h3 class="dorik-heading dorik-heading-d0y7i08r "><span>2021-present
+</span></h3></div><div class="dorik-text dorik-text-gkk7e6oq "><p></p>
+<p>B.E in Information Technology</p>
+<p></p>
+<p>currently I am doing Bachelor of Engineering in INFORMATION TECHNOLOGY, In Government Engineering College, Bhavnagar. Which is located in Gujarat, India.</p>
+</div></div></div></div></div></div></section><section class="dorik-section dorik-section-kd1z6mqj "><div class=""><div class="container dorik-row-ufmanv3r-wrapper    "><div class="dorik-row-ufmanv3r  flex  "><div class="col-lg-1/1 "><div class="column-inner dorik-column-wtjfggs1  1/1"><div class="dorik-line-zxjdd22w-wrapper "><hr class="dorik-line-zxjdd22w "/></div><div class="dorik-wrapper dorik-heading-hom5fxb4-wrapper "><h2 class="dorik-heading dorik-heading-hom5fxb4 "><span>Skills&nbsp;
+</span></h2></div><div class="dorik-progressbar-91j9uwck "><div class="progressbar"><label>C</label><div class="progress-horizontal dorik-progress-j9uj3pqy"><label class="label-onBar">C</label></div></div><div class="progressbar"><label>Java</label><div class="progress-horizontal dorik-progress-j9uj32qy"><label class="label-onBar">Java</label></div></div><div class="progressbar"><label>Android Development</label><div class="progress-horizontal dorik-progress-j8Uj32qy"><label class="label-onBar">Android Development</label></div></div></div></div></div></div></div></div></section><section class="dorik-section dorik-section-db1yb4ms "><div class=""><div class="container dorik-row-jfzh6vwy-wrapper    "><div class="dorik-row-jfzh6vwy  flex  "><div class="col-lg-2/3 "><div class="column-inner dorik-column-uja8v6ph  2/3"><div class="dorik-wrapper dorik-heading-74s87llu-wrapper "><h1 class="dorik-heading dorik-heading-74s87llu "><span>Get in Touch
+</span></h1></div><div class="dorik-wrapper dorik-heading-pfgk4nvj-wrapper "><h4 class="dorik-heading dorik-heading-pfgk4nvj "><span>&nbsp;&nbsp;📌Address : Halvad, Dist-Morbi, India
+</span></h4></div><div class="dorik-wrapper dorik-heading-z78z0ogg-wrapper "><h6 class="dorik-heading dorik-heading-z78z0ogg "><span>&nbsp;&nbsp;📩 jshailesh798@gmail.com
+</span></h6></div><ul class="dorik-socialIcon-exrk7yyq  dorik-socialIcon-exrk7yyq-wrapper "><li><a href="https://twitter.com/_Shailesh_Jadav" class="">
+            <svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect width="128" height="128" rx="10" fill="#1DA1F2"/>
+            <path d="M49.363 96C79.1386 96 95.4298 71.3999 95.4298 50.05C95.4298 49.3501 95.4298 48.6499 95.3796 47.9499C98.5376 45.6499 101.295 42.7999 103.5 39.6C100.593 40.8499 97.4348 41.7501 94.1765 42.1C97.5348 40.1001 100.091 36.9501 101.294 33.2C98.1864 35.05 94.6776 36.4 91.0185 37.1C88.0608 33.95 83.8503 32 79.1884 32C70.2157 32 62.9974 39.25 62.9974 48.15C62.9974 49.4 63.1478 50.6499 63.3983 51.8499C49.9645 51.1498 37.984 44.7499 30.0139 34.9499C28.6101 37.3499 27.8084 40.0999 27.8084 43.0999C27.8084 48.6999 30.6654 53.6499 35.0264 56.5499C32.3699 56.4501 29.8633 55.7001 27.708 54.5001V54.7C27.708 62.55 33.2722 69.0498 40.691 70.55C39.3377 70.8999 37.884 71.0999 36.4303 71.0999C35.3775 71.0999 34.375 71 33.3724 70.85C35.4277 77.25 41.3929 81.9 48.5109 82.0501C42.9467 86.4001 35.9789 88.9501 28.4099 88.9501C27.0565 88.9501 25.8034 88.9 24.5 88.7502C31.6682 93.3499 40.1897 96 49.363 96Z" fill="white"/>
+            </svg>
+            </a></li><li><a href="https://www.linkedin.com/in/shailesh-jadav-461132250/" class="">
+        <svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect width="128" height="128" rx="10" fill="#1B66C2"/>
+        <path d="M42.9643 102V51.1633H27.1875V102H42.9643ZM34.9911 44.3624C40.0804 44.3624 44.1518 40.1119 44.1518 35.0112C44.1518 30.0805 40.0804 26 34.9911 26C30.0714 26 26 30.0805 26 35.0112C26 40.1119 30.0714 44.3624 34.9911 44.3624ZM101.83 102H102V74.1163C102 60.5145 98.9464 49.9732 83 49.9732C75.3661 49.9732 70.2768 54.2237 68.0714 58.1342H67.9018V51.1633H52.8036V102H68.5804V76.8367C68.5804 70.2058 69.7679 63.915 77.9107 63.915C86.0536 63.915 86.2232 71.396 86.2232 77.3468V102H101.83Z" fill="white"/>
+        </svg>
+        </a></li><li><a href="https://www.instagram.com/_shailesh_jadav/" class="">
+    <svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="128" height="128" rx="10" fill="#E11B7E"/>
+    <rect width="128" height="128" rx="10" fill="url(#paint0_linear)"/>
+    <rect width="128" height="128" rx="10" fill="url(#paint1_radial)"/>
+    <rect width="128" height="128" rx="10" fill="url(#paint2_radial)"/>
+    <path d="M64.0848 44.4062C53.2277 44.4062 44.5759 53.2277 44.5759 63.9152C44.5759 74.7723 53.2277 83.4241 64.0848 83.4241C74.7723 83.4241 83.5938 74.7723 83.5938 63.9152C83.5938 53.2277 74.7723 44.4062 64.0848 44.4062ZM64.0848 76.6384C57.1295 76.6384 51.3616 71.0402 51.3616 63.9152C51.3616 56.9598 56.9598 51.3616 64.0848 51.3616C71.0402 51.3616 76.6384 56.9598 76.6384 63.9152C76.6384 71.0402 71.0402 76.6384 64.0848 76.6384ZM88.8527 43.7277C88.8527 41.183 86.817 39.1473 84.2723 39.1473C81.7277 39.1473 79.692 41.183 79.692 43.7277C79.692 46.2723 81.7277 48.308 84.2723 48.308C86.817 48.308 88.8527 46.2723 88.8527 43.7277ZM101.746 48.308C101.406 42.2009 100.049 36.7723 95.6384 32.3616C91.2277 27.9509 85.7991 26.5938 79.692 26.2545C73.4152 25.9152 54.5848 25.9152 48.308 26.2545C42.2009 26.5938 36.942 27.9509 32.3616 32.3616C27.9509 36.7723 26.5938 42.2009 26.2545 48.308C25.9152 54.5848 25.9152 73.4152 26.2545 79.692C26.5938 85.7991 27.9509 91.058 32.3616 95.6384C36.942 100.049 42.2009 101.406 48.308 101.746C54.5848 102.085 73.4152 102.085 79.692 101.746C85.7991 101.406 91.2277 100.049 95.6384 95.6384C100.049 91.058 101.406 85.7991 101.746 79.692C102.085 73.4152 102.085 54.5848 101.746 48.308ZM93.6027 86.308C92.4152 89.7009 89.7009 92.2455 86.4777 93.6027C81.3884 95.6384 69.5134 95.1295 64.0848 95.1295C58.4866 95.1295 46.6116 95.6384 41.692 93.6027C38.2991 92.2455 35.7545 89.7009 34.3973 86.308C32.3616 81.3884 32.8705 69.5134 32.8705 63.9152C32.8705 58.4866 32.3616 46.6116 34.3973 41.5223C35.7545 38.2991 38.2991 35.7545 41.692 34.3973C46.6116 32.3616 58.4866 32.8705 64.0848 32.8705C69.5134 32.8705 81.3884 32.3616 86.4777 34.3973C89.7009 35.5848 92.2455 38.2991 93.6027 41.5223C95.6384 46.6116 95.1295 58.4866 95.1295 63.9152C95.1295 69.5134 95.6384 81.3884 93.6027 86.308Z" fill="white"/>
+    <defs>
+    <linearGradient id="paint0_linear" x1="14.0625" y1="-6.28238e-07" x2="56.125" y2="114.687" gradientUnits="userSpaceOnUse">
+    <stop offset="0.04" stop-color="#4263DF"/>
+    <stop offset="1" stop-color="#D53585" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(28.1875 128) rotate(-36.1187) scale(118.223)">
+    <stop offset="0.13" stop-color="#FFAD05"/>
+    <stop offset="1" stop-color="#FF3F00" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint2_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(36.5625 128) rotate(-40.6013) scale(80.0948)">
+    <stop offset="0.01" stop-color="#FDDB86"/>
+    <stop offset="1" stop-color="#F06942" stop-opacity="0"/>
+    </radialGradient>
+    </defs>
+    </svg>
+    </a></li></ul></div></div><div class="col-lg-1/3 "><div class="column-inner dorik-column-oyoxf6bd  1/3"><form id="gmskoyon" class="dorik-contactForm-gmskoyon "><input type="hidden" name="_t" value="anNoYWlsZXNoNzk4QGdtYWlsLmNvbQ=="/><input type="hidden" name="_sub"/><div class="fields-wrapper"><div class="form-group"><label>Email</label><input type="email" name="email" required="" class="form-control" placeholder="Enter your email"/></div><div class="form-group"><label>Subject</label><input type="text" name="subject" class="form-control" placeholder="Email Subject"/></div><div class="form-group"><label>Message</label><textarea name="message" class="form-control" rows="5" placeholder="Write your message..."></textarea></div><div class="form-group form-button"><button type="submit">Send Message<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="spinner" class="svg-inline--fa fa-spinner fa-spin fa-fw spinner" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="display:none;margin-left:5px"><path fill="currentColor" d="M304 48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zm0 416c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM48 304c26.5 0 48-21.5 48-48s-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48zm464-48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM142.9 437c18.7-18.7 18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zm0-294.2c18.7-18.7 18.7-49.1 0-67.9S93.7 56.2 75 75s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zM369.1 437c18.7 18.7 49.1 18.7 67.9 0s18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9z"></path></svg></button></div></div></form></div></div></div></div></div></section>
+            
+                <div class='dorik-branding'><span>Built with Dorik</span> <a href="" title="Report Abuse">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                        <path fill="none" d="M0 0h24v24H0z"/><path d="M5 16v6H3V3h9.382a1 1 0 0 1 .894.553L14 5h6a1 1 0 0 1 1 1v11a1 1 0 0 1-1 1h-6.382a1 1 0 0 1-.894-.553L12 16H5zM5 5v9h8.236l1 2H19V7h-6.236l-1-2H5z"/>
+                    </svg></a>
+                </div>
+                <script>
+                    var brandFlag = document.querySelector('.dorik-branding a');
+                    if(brandFlag) {
+                        var url = "mailto:abuse@dorik.io?subject=Abuse Report " + window.location.origin;
+                        brandFlag.addEventListener('click', () =>
+                            brandFlag.setAttribute('href', url)
+                        );
+                    }
+                </script>
+            
+            <script>window.DORIK_PROJECT_ID = "642f9ccd2539a80035b6bb32";</script>
+            <script>(function popupButton() {
+  const popupLinks = document.querySelectorAll(`.popup-btn`);
+  popupLinks.forEach(element => {
+    let popupId = element.getAttribute('href');
+    popupId = popupId.startsWith('#') ? popupId.substring(1) : popupId;
+    element.addEventListener('click', () => {
+      if (!popupId) return;
+      let popupRow = document.getElementById(popupId);
+      let closeBtn = document.querySelector(`.close-btn-${popupId}`);
+      let popupOverlayEl = popupRow === null || popupRow === void 0 ? void 0 : popupRow.parentElement;
+      popupOverlayEl === null || popupOverlayEl === void 0 ? void 0 : popupOverlayEl.classList.add(`row-${popupId}-overlay`);
+      popupRow === null || popupRow === void 0 ? void 0 : popupRow.classList.add(`modal-${popupId}-visible`);
+      closeBtn === null || closeBtn === void 0 ? void 0 : closeBtn.classList.add('btn-visible');
+    });
+  });
+})()</script>
+            <script>(function renderPopupModal({
+  exitIntentPopup = {},
+  onloadPopup = {},
+  EXIT_INTENT,
+  ONLOAD
+}) {
+  const modalVisibility = popupId => {
+    let popupRow = document.getElementById(popupId);
+    let closeBtn = document.querySelector(`.close-btn-${popupId}`);
+    let popupOverlayEl = popupRow === null || popupRow === void 0 ? void 0 : popupRow.parentElement;
+    popupOverlayEl === null || popupOverlayEl === void 0 ? void 0 : popupOverlayEl.classList.add(`row-${popupId}-overlay`);
+    popupRow === null || popupRow === void 0 ? void 0 : popupRow.classList.add(`modal-${popupId}-visible`);
+    closeBtn === null || closeBtn === void 0 ? void 0 : closeBtn.classList.add('btn-visible');
+  };
+
+  document.addEventListener('mouseleave', () => {
+    let interativeModal = localStorage.getItem(`${EXIT_INTENT}-${exitIntentPopup.id}-${exitIntentPopup.suffixId}`);
+
+    if (exitIntentPopup.id && !interativeModal) {
+      modalVisibility(exitIntentPopup.id);
+    }
+  });
+  window.addEventListener('load', () => {
+    let onloadModal = localStorage.getItem(`${ONLOAD}-${onloadPopup.id}-${onloadPopup.suffixId}`);
+
+    if (onloadPopup.id && !onloadModal) {
+      modalVisibility(onloadPopup.id);
+    }
+  });
+})({
+                EXIT_INTENT: "EXIT_INTENT",
+                ONLOAD: "ONLOAD",
+                exitIntentPopup: undefined,
+                onloadPopup: undefined
+            })</script>
+            <script src="https://cdn.dorik.com/common/jquery-3.5.1.min.js"></script><script type="text/javascript">;(function() {
+                var elem = $("#gmskoyon");
+                function triggerSpinner(el, status) {
+                el.find(".spinner").css(
+                    "display",
+                    status ? "inline-block" : "none"
+                );
+            }
+                ;(function injectUniqId(elem) {
+                const uniqId = Math.random().toString(36).substring(2, 8);
+                var input = document.createElement("input");
+                input.type = "hidden";
+                input.value = uniqId;
+                input.name = "_uid";
+                elem.append(input);
+            })(elem);
+                $(elem).on("submit", function (e) {
+                    e.preventDefault();
+                    var that = this;
+                    triggerSpinner(elem, true);
+                    $(that).find(".success-message").remove();
+                    $(that).find(".error-message").remove();
+
+                    $.ajax({
+                        url: "/v2/sites/action/contact",
+                        method: "POST",
+                        data: $(this).serialize(),
+                        success: function(data) {
+                            var msgClass = data.success === true ? "success-message": "error-message";
+                            var message = data.success === true ? "Thank you for your email :-)" : data.message;
+                            var $div = $("<div>", {
+                                class: msgClass,
+                                html: message
+                            });
+                            $(that).append($div);
+                            triggerSpinner(elem, false);
+                            that.reset()
+                            
+                        },
+                        error: function(error) {
+                            var $div = $("<div>", {
+                                class: "error-message",
+                                html: error.message || "Something went wrong! Check the fields"
+                            });
+                            $(that).append($div);
+                            triggerSpinner(elem, false);
+                        }
+                    });
+                });
+            })();</script>
+            
+            
+        </body>
+    </html>
